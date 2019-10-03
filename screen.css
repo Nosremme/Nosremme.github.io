@@ -11,9 +11,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
+  margin: 1;
+  padding: 1;
+  border: 1;
   font-size: 50%;
   font: inherit;
   vertical-align: baseline; }
@@ -46,8 +46,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #2a2a2a; }
+  font-family: 'Mansalva', cursive;
+  color:black; 
+font-size: 1}
 
 a {
   color: #0388a6; }
@@ -59,6 +60,6 @@ a {
   h1 {
      font-family: 'Mansalva', cursive;
     font-size: 5em;
-    color: black
+    color: rgb(255, 0, 0)
     ;
   }
