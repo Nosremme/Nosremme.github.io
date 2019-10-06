@@ -48,8 +48,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
   font-family: 'Mansalva', cursive;
   color:black; 
-font-size: 1}
-
+font-size: 3}
+body:hover{
+  color: aqua
+}
 a {
   color: #0388a6; }
   a:hover {
@@ -63,3 +65,4 @@ a {
     color: rgb(255, 0, 0)
     ;
   }
+ 
