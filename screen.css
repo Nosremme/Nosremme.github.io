@@ -1,5 +1,5 @@
 body {
-  font-family: 'Mansalva', cursive;
+  font-family: Arial, Helvetica, sans-serif;
   color:black; 
 font-size: 3}
 a {
@@ -10,30 +10,40 @@ a {
 #main {
   padding: 75px; }
   h1 {
-     font-family: 'Mansalva', cursive;
+     font-family: Arial, Helvetica, sans-serif;
     font-size: 7em;
     color: rgb(255, 0, 0)
     ;
   }
  footer{
+   padding:.5in;
    font-family: 'Courier New', Courier, monospace;
-   font-size: .5cm;
+   font-size: 1cm;
    color: black;
-   position: absolute;top:10; right:10;
+   position: relative;top:10; right:10;
    width:5cm;
    background-color: red
    }
-   p{font-size:.75cm}
    footer:hover{
     color:blue;
-   :110px;
   }
-p{position: relative;
-bottom:700px;
-left:700px;}
+p{font-size:1cm;
+  padding:1in;
+  color:white;
+  background-color:black;
+  width: 3in;height:4in;
+  padding:.5in;
+  position: relative;
+bottom:750px;
+left:750px;}
     
 img{position: relative;
 bottom:50px;
-left:400px;}
+left:350px;
+width: 4in;
+height:4in; }
 
+body {
+  padding-top: 3.5rem;
+}
    
