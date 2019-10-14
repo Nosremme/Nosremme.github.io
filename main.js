@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function() {
       this.style.color = 'orange'
     }
     $( document ).ready(function() {
-      $("HEADER").click(function() {
-        $("HEADER").fadeOut( "FAST", function() {
+      $("middle").click(function() {
+        $("middle").fadeout();( "slow", function() {
         });
       });
     });
