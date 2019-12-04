@@ -12,33 +12,44 @@ a {
   padding: 75px; }
   h1 {
      font-family: Arial, Helvetica, sans-serif;
-    font-size: 5em;
-    color:rgb(255, 93, 93);
+    font-size: 3em;
+    color:black;
+    background-color: coral;
+    height: 1in;
+    width: 4in;
+  }
+  h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    color: black;
+    position: absolute; top: 1.7in; left:4.6in;
+    Width: 4in; height: 1in; 
+  
+
+
   }
   h3{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 3em;
-    color:rgb(255, 93, 93)
+    color: black
   }
  footer{
    padding:.5in;
    font-family: 'Courier New', Courier, monospace;
-   font-size: 1cm;
+   font-size: .4cm;
    color: black;
    width:5cm;
    }
-   footer:hover{
-    color:blue;
-  }
-p{font-size:2cm;
-  padding:1in;
-  color:black;
-  width: 3in;height:4in;
-  padding:.5in;}
+  
+p{font-size:.5cm;
+  color: grey;
+}
+
     
 img{
 width: 4in;
 height:4in; }
+
 
 
    
